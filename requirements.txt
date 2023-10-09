@@ -1,0 +1,6 @@
+flask==1.1.2
+requests==2.25.1
+flask-restful==0.3.8
+python-dotenv==0.15.0
+gunicorn==20.0.4
+tailwindcss==2.0.2
